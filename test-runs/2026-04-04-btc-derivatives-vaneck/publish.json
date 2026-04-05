@@ -1,0 +1,13 @@
+{
+  "upload_thumbnail": "missing",
+  "create_post": "pending",
+  "set_featured_image": "pending",
+  "update_seo_meta": "pending",
+  "finalize_summary": "pending",
+  "post_id": null,
+  "post_url": null,
+  "slug": null,
+  "media_id": null,
+  "category_id": null,
+  "publish_status": "publish"
+}

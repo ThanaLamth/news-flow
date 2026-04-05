@@ -1,0 +1,127 @@
+{
+  "headline": "BTC Derivatives Hit Extreme Hedging Range: VanEck",
+  "verification_status": "verified",
+  "confidence": 0.84,
+  "primary_source": {
+    "url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-march-2026-bitcoin-chaincheck/",
+    "key_facts": [
+      "VanEck said Bitcoin's put/call open interest ratio peaked at 0.84 and averaged 0.77, the highest level since June 2021.",
+      "VanEck reported BTC options open interest at $33.4 billion, showing elevated derivatives exposure despite cooler futures leverage.",
+      "VanEck said put premiums relative to BTC spot volume reached an all-time high of roughly 4 basis points, indicating unusually expensive downside hedging."
+    ]
+  },
+  "story_archetype": "general",
+  "topic_entities": [
+    "Bitcoin",
+    "VanEck",
+    "BTC options",
+    "BTC derivatives"
+  ],
+  "supporting_sources": [
+    {
+      "platform": "DL News",
+      "family": "media",
+      "url": "https://www.dlnews.com/articles/markets/bitcoin-options-traders-extreme-defensiveness-bets-33-billion/",
+      "priority": 1,
+      "why_this_source": "Direct secondary confirmation of VanEck's figures on put/call ratio, historical percentile, and $33B-plus BTC options open interest."
+    },
+    {
+      "platform": "Block Scholes",
+      "family": "derivatives",
+      "url": "https://www.blockscholes.com/research/btc-sell-off-sparks-most-extreme-crypto-derivatives-positioning-since-2022",
+      "priority": 2,
+      "why_this_source": "Independent derivatives research confirming elevated demand for downside protection and extreme short-dated volatility in BTC options."
+    },
+    {
+      "platform": "CoinGecko API",
+      "family": "market",
+      "url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true&include_market_cap=true&include_24hr_vol=true",
+      "priority": 3,
+      "why_this_source": "Current BTC spot-market baseline for price, 24-hour change, market capitalization, and volume."
+    }
+  ],
+  "visual_sources": [
+    {
+      "platform": "VanEck",
+      "family": "derivatives",
+      "url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-march-2026-bitcoin-chaincheck/",
+      "priority": 1,
+      "why_this_visual": "Primary research page includes the BTC ChainCheck dashboard and derivatives charts showing the extreme hedging regime."
+    },
+    {
+      "platform": "Block Scholes",
+      "family": "derivatives",
+      "url": "https://www.blockscholes.com/research/btc-sell-off-sparks-most-extreme-crypto-derivatives-positioning-since-2022",
+      "priority": 2,
+      "why_this_visual": "Contains screenshot-ready BTC derivatives charts on volatility and downside-protection demand that directly contextualize VanEck's claim."
+    }
+  ],
+  "verified_facts": [
+    {
+      "fact": "1. VanEck said BTC's put/call open interest ratio peaked at 0.84 and averaged 0.77, the highest level since June 2021.",
+      "source_url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-march-2026-bitcoin-chaincheck/"
+    },
+    {
+      "fact": "2. VanEck reported total Bitcoin options open interest at $33.4 billion, even as futures leverage cooled.",
+      "source_url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-march-2026-bitcoin-chaincheck/"
+    },
+    {
+      "fact": "3. VanEck said put premiums relative to BTC spot volume reached an all-time high of roughly 4 basis points, about 3x mid-2022 levels.",
+      "source_url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-march-2026-bitcoin-chaincheck/"
+    },
+    {
+      "fact": "4. DL News independently summarized the VanEck report as showing bearish BTC options bets at their highest level since June 2021 and total open interest above $33 billion.",
+      "source_url": "https://www.dlnews.com/articles/markets/bitcoin-options-traders-extreme-defensiveness-bets-33-billion/"
+    },
+    {
+      "fact": "5. Block Scholes separately found that demand for downside protection in BTC options rose to multi-year highs, with 7-day implied volatility exceeding 100% after BTC briefly touched $60,000.",
+      "source_url": "https://www.blockscholes.com/research/btc-sell-off-sparks-most-extreme-crypto-derivatives-positioning-since-2022"
+    }
+  ],
+  "unverified_claims": [],
+  "missing_evidence": [],
+  "recommended_action": "continue",
+  "market_data": {
+    "price": 66925,
+    "change_24h": -0.05248016609604205,
+    "market_cap": 1339141419217.358,
+    "volume": 20825331807.78752,
+    "source_url": "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd&include_24hr_change=true&include_market_cap=true&include_24hr_vol=true"
+  },
+  "sentiment": {
+    "fear_greed_score": 11,
+    "fear_greed_label": "Extreme Fear",
+    "social_summary": "Derivatives positioning and the Alternative.me index both point to a defensive BTC backdrop, with institutional demand skewed toward downside protection rather than upside speculation."
+  },
+  "expert_quotes": [],
+  "regulatory_context": "No fresh regulatory filing or rule change is central to this story. The main historical comparator in VanEck's analysis is June 2021, when China banned Bitcoin mining; current positioning appears driven more by market stress and macro uncertainty than by a new regulation.",
+  "competitor_gaps": "A weak rewrite would repeat VanEck's 'extreme hedging' line without the actual ratios, the $33.4B options-open-interest figure, or the context that futures leverage cooled while put demand stayed elevated. The stronger angle is that BTC options remain unusually defensive even after spot conditions stabilized.",
+  "key_statistics": [
+    {
+      "label": "BTC put/call open interest ratio peak",
+      "value": "0.84",
+      "source_url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-march-2026-bitcoin-chaincheck/"
+    },
+    {
+      "label": "BTC put/call open interest ratio average",
+      "value": "0.77",
+      "source_url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-march-2026-bitcoin-chaincheck/"
+    },
+    {
+      "label": "BTC options open interest",
+      "value": "$33.4B",
+      "source_url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-march-2026-bitcoin-chaincheck/"
+    },
+    {
+      "label": "Put premiums relative to BTC spot volume",
+      "value": "~4 basis points",
+      "source_url": "https://www.vaneck.com/us/en/blogs/digital-assets/matthew-sigel-vaneck-mid-march-2026-bitcoin-chaincheck/"
+    },
+    {
+      "label": "Fear & Greed Index",
+      "value": "11 (Extreme Fear)",
+      "source_url": "https://api.alternative.me/fng/?limit=1"
+    }
+  ],
+  "screenshots": []
+}

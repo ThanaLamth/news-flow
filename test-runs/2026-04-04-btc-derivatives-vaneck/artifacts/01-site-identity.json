@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-04T09:02:10.314Z",
+  "site": {
+    "id": "coincu",
+    "domain": "coincu.com",
+    "mcp_server": "coincu-com",
+    "default_category": 12404,
+    "categories": [
+      {
+        "name": "Bitcoin",
+        "id": 3,
+        "slug": null
+      },
+      {
+        "name": "Ethereum",
+        "id": 4,
+        "slug": null
+      },
+      {
+        "name": "Blockchain",
+        "id": 7,
+        "slug": null
+      },
+      {
+        "name": "Analysis",
+        "id": 8,
+        "slug": null
+      },
+      {
+        "name": "DeFi",
+        "id": 10538,
+        "slug": null
+      },
+      {
+        "name": "CMC",
+        "id": 39400,
+        "slug": null
+      },
+      {
+        "name": "Altcoin",
+        "id": 38241,
+        "slug": null
+      },
+      {
+        "name": "Airdrop",
+        "id": 12060,
+        "slug": null
+      },
+      {
+        "name": "News",
+        "id": 12404,
+        "slug": null
+      },
+      {
+        "name": "Markets",
+        "id": 2,
+        "slug": null
+      },
+      {
+        "name": "NFTs News",
+        "id": 12405,
+        "slug": null
+      },
+      {
+        "name": "Scam Alert",
+        "id": 13768,
+        "slug": null
+      },
+      {
+        "name": "Solana",
+        "id": 46009,
+        "slug": null
+      },
+      {
+        "name": "GameFi",
+        "id": 10537,
+        "slug": null
+      },
+      {
+        "name": "Knowledge",
+        "id": 9,
+        "slug": null
+      },
+      {
+        "name": "Deep Analysis",
+        "id": 46279,
+        "slug": null
+      }
+    ],
+    "pipeline_mode": "phased"
+  },
+  "article": {
+    "title": "BTC Derivatives Hit Extreme Hedging Range: VanEck",
+    "source_url": null,
+    "job_id": null
+  },
+  "editorial": {
+    "primary_keyword": "btc derivatives hit extreme",
+    "min_internal_links": 5,
+    "min_external_links": 2
+  }
+}

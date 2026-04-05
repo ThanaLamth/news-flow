@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "job_id": "0f371958a150",
+  "site": "coincu",
+  "title": "BTC Derivatives Hit Extreme Hedging Range: VanEck",
+  "source_url": null,
+  "current_phase": "data_visuals_plan",
+  "initialized_at": "2026-04-04T08:58:43.846Z",
+  "updated_at": "2026-04-04T09:02:10.315Z",
+  "phases": [
+    {
+      "key": "site_identity",
+      "order": 1,
+      "label": "Site Identity",
+      "status": "completed",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/01-site-identity.json",
+      "legacy_phase": null,
+      "started_at": "2026-04-04T08:58:43.847Z",
+      "completed_at": "2026-04-04T09:02:10.314Z",
+      "notes": "Site identity synced from workflow runtime.",
+      "attempt_count": 0
+    },
+    {
+      "key": "research",
+      "order": 2,
+      "label": "Research",
+      "status": "completed",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/02-research-brief.json",
+      "legacy_phase": "research",
+      "started_at": "2026-04-04T08:58:43.852Z",
+      "completed_at": "2026-04-04T09:02:10.315Z",
+      "notes": "Research artifact synced from legacy output.",
+      "attempt_count": 0
+    },
+    {
+      "key": "data_visuals_plan",
+      "order": 3,
+      "label": "Data Visuals Plan",
+      "status": "pending",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/03-visual-plan.json",
+      "legacy_phase": "data_visuals",
+      "started_at": null,
+      "completed_at": null,
+      "notes": null,
+      "attempt_count": 0
+    },
+    {
+      "key": "seo_outline",
+      "order": 4,
+      "label": "SEO & Outline",
+      "status": "pending",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/04-seo-outline.json",
+      "legacy_phase": "seo",
+      "started_at": null,
+      "completed_at": null,
+      "notes": null,
+      "attempt_count": 0
+    },
+    {
+      "key": "writing",
+      "order": 5,
+      "label": "Writing",
+      "status": "pending",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/05-draft.html",
+      "legacy_phase": "writing",
+      "started_at": null,
+      "completed_at": null,
+      "notes": null,
+      "attempt_count": 0
+    },
+    {
+      "key": "writing_qc_loop",
+      "order": 6,
+      "label": "Writing QC Loop",
+      "status": "pending",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/06-qc-report.json",
+      "legacy_phase": "writing",
+      "started_at": null,
+      "completed_at": null,
+      "notes": null,
+      "attempt_count": 0
+    },
+    {
+      "key": "data_visuals_execution",
+      "order": 7,
+      "label": "Data Visuals Execution",
+      "status": "pending",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/07-captures",
+      "legacy_phase": "data_visuals",
+      "started_at": null,
+      "completed_at": null,
+      "notes": null,
+      "attempt_count": 0
+    },
+    {
+      "key": "final_article_patch_up",
+      "order": 8,
+      "label": "Final Article Patch-Up",
+      "status": "pending",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/08-final-article.html",
+      "legacy_phase": "writing",
+      "started_at": null,
+      "completed_at": null,
+      "notes": null,
+      "attempt_count": 0
+    },
+    {
+      "key": "thumbnail",
+      "order": 9,
+      "label": "Thumbnail",
+      "status": "pending",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/09-thumbnail.png",
+      "legacy_phase": "thumbnail",
+      "started_at": null,
+      "completed_at": null,
+      "notes": null,
+      "attempt_count": 0
+    },
+    {
+      "key": "publishing",
+      "order": 10,
+      "label": "Publishing",
+      "status": "pending",
+      "artifact_path": "/home/thananewsflow/news-workflow-main/news-workflow-main/output/0f371958a150/artifacts/10-publish-result.json",
+      "legacy_phase": "publishing",
+      "started_at": null,
+      "completed_at": null,
+      "notes": null,
+      "attempt_count": 0
+    }
+  ]
+}

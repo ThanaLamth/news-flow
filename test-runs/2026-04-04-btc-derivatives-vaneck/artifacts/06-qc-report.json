@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "site": "coincu",
+  "title": "BTC Derivatives Hit Extreme Hedging Range: VanEck",
+  "status": "pending",
+  "verdict": "pending",
+  "attempt_count": 0,
+  "metrics": {
+    "word_count": 0,
+    "internal_links": 0,
+    "external_links": 0
+  },
+  "visuals": {
+    "needs_review": true,
+    "planned_items": 0
+  },
+  "issues": [
+    {
+      "severity": "info",
+      "category": "workflow",
+      "message": "QC placeholder created before draft generation.",
+      "pass_blocking": false
+    }
+  ],
+  "generated_at": "2026-04-04T08:58:43.850Z"
+}
